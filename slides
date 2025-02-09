@@ -1,0 +1,6 @@
+cd path/to/EHA
+mkdir slides
+echo "Slides" > slides/README.md
+git add slides
+git commit -m "Slides slides"
+git push
